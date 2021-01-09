@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ystore</string>
+    <string name="category1">Clothes</string>
+    <string name="firstproduct">Product1</string>
+    <string name="firstprice">Price1</string>
+    <string name="product_details">product_details</string>
 </resources>
